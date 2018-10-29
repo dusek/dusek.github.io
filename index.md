@@ -33,16 +33,16 @@ My software contributions include:
         * [radio buttons are not checkboxes](https://github.com/textmate/textmate/pull/928)
 * accessibility of [LibreOffice](https://www.libreoffice.org) - bug fixing, a bit of implementation; [22 unique merged change requests](https://gerrit.libreoffice.org/#/q/branch:master+owner:%22Boris+Du%25C5%25A1ek+%253Cme%2540dusek.me%253E%22):
     * key echo, attributes etc.
+* accessibility of [Qt](https://www.qt.io/); [17 unique merged change requests](https://codereview.qt-project.org/#/q/owner:%22Boris+Du%25C5%25A1ek+%253Cme%2540dusek.me%253E%22+status:merged+branch:dev,n,z)
+    * TODO: text component fixes on OS X (VoiceOver) and Linux (Orca)
+* accessibility of [Firefox for iOS](http://github.com/mozilla/firefox-ios); [28 unique merged pull requests](https://github.com/mozilla-mobile/firefox-ios/pulls?utf8=✓&q=is%3Apr+author%3Adusek+)
+    * [labels and dismiss ("scrub") gestures](https://github.com/mozilla/firefox-ios/pull/77)
+    * visual adjustments
+        * [darken colors](https://github.com/mozilla/firefox-ios/pull/97), bold text
+    * TODO: many many more :-)
 * [accessibility of Colloquy](http://colloquy.info/project/ticket/3222)
     * chat room people browser
     * labels
 * accessibility of [iTerm 2](http://iterm2.com/)
     * [small improvements to the main text area](https://github.com/gnachman/iTerm2/pull/123)
     * [tab bar basics](https://github.com/gnachman/iTerm2/pull/122)
-* accessibility of [Firefox for iOS](http://github.com/mozilla/firefox-ios); [28 unique merged pull requests](https://github.com/mozilla-mobile/firefox-ios/pulls?utf8=✓&q=is%3Apr+author%3Adusek+)
-    * [labels and dismiss ("scrub") gestures](https://github.com/mozilla/firefox-ios/pull/77)
-    * visual adjustments
-        * [darken colors](https://github.com/mozilla/firefox-ios/pull/97), bold text
-    * TODO: many many more :-)
-* accessibility of [Qt](https://www.qt.io/); [17 unique merged change requests](https://codereview.qt-project.org/#/q/owner:%22Boris+Du%25C5%25A1ek+%253Cme%2540dusek.me%253E%22+status:merged+branch:dev,n,z)
-    * TODO: text component fixes on OS X (VoiceOver) and Linux (Orca)
