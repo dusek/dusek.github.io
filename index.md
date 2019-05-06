@@ -8,8 +8,7 @@ layout: page
 [LinkedIn](http://cz.linkedin.com/in/dusek1),
 [SoundCloud](https://soundcloud.com/bdusek)
 
-I am a software engineer living in Prague working for [OUI Technology Ltd.](https://oui.technology/).
-My professional interests include accessibility for the visually-impaired, beautiful code
+I am a software engineer with professional interests including accessibility for the visually-impaired, beautiful code
 (in C++, Swift, Objective-C, and Python) and Apple. I am also very interested in music,
 including [playing](https://soundcloud.com/bdusek/pc-vs-mac) the piano.
 
