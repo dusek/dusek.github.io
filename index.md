@@ -30,6 +30,7 @@ My software contributions include:
         * [pasteboard accessibility](https://github.com/textmate/textmate/pull/670)
         * [grouping of elements](https://github.com/textmate/textmate/pull/856)
         * [radio buttons are not checkboxes](https://github.com/textmate/textmate/pull/928)
+    * ["Symbols" custom rotor](https://github.com/textmate/textmate/pull/1431)
 * accessibility of [LibreOffice](https://www.libreoffice.org) - bug fixing, a bit of implementation; [22 unique merged change requests](https://gerrit.libreoffice.org/#/q/branch:master+owner:%22Boris+Du%25C5%25A1ek+%253Cme%2540dusek.me%253E%22):
     * key echo, attributes etc.
 * accessibility of [Qt](https://www.qt.io/); [17 unique merged change requests](https://codereview.qt-project.org/#/q/owner:%22Boris+Du%25C5%25A1ek+%253Cme%2540dusek.me%253E%22+status:merged+branch:dev,n,z)
